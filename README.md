@@ -29,7 +29,7 @@ Configure the passwords: <br/>
 <img src="Configuring Switch Passwords.png" height="80%" width="80%" alt="Configure the passwords"/>
 <br />
 <br />
-Configure the default gateway:  <br/>
+Configure the IP address on VLAN interface:  <br/>
 <img src="Switch IP.png" height="80%" width="80%" alt="Configure the default gateway"/>
 <br />
 <br />
