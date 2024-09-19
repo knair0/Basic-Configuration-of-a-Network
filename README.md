@@ -10,6 +10,18 @@ In this project, I designed and implemented a small home network using Cisco Pac
 
 - <b>Cisco Packet Tracer</b>
 
+<h2>Physical Topology:</h2>
+
+<img src="Physical Topology.png" height="80%" width="80%" alt="Physical Topology"/>
+<br />
+<br />
+
+<h2>Logical Topology:</h2>
+
+<img src="Logical Topology.png" height="80%" width="80%" alt="Logical Topology"/>
+<br />
+<br />
+
 <h2>Configuring the router:</h2>
 
 <p align="center">
