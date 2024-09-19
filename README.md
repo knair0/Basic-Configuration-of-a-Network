@@ -21,6 +21,19 @@ Configure the default gateway:  <br/>
 <img src="Router IP.png" height="80%" width="80%" alt="Configure the default gateway"/>
 <br />
 <br />
+
+<h2>Configuring the switch:</h2>
+
+<p align="center">
+Configure the passwords: <br/>
+<img src="Configuring Switch Passwords.png" height="80%" width="80%" alt="Configure the passwords"/>
+<br />
+<br />
+Configure the default gateway:  <br/>
+<img src="Switch IP.png" height="80%" width="80%" alt="Configure the default gateway"/>
+<br />
+<br />
+</p>
 </p>
 
 <!--
