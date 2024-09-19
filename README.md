@@ -30,10 +30,41 @@ Configure the passwords: <br/>
 <br />
 <br />
 Configure the IP address on VLAN interface:  <br/>
-<img src="Switch IP.png" height="80%" width="80%" alt="Configure the default gateway"/>
+<img src="Switch IP.png" height="80%" width="80%" alt="Configure the IP"/>
 <br />
 <br />
 </p>
+
+<h2>Configuring the laptop:</h2>
+
+<p align="center">
+Configure the IP address, subnet mask, and default gateway: <br/>
+<img src="Laptop IP.png" height="80%" width="80%" alt="Configure the IP"/>
+<br />
+<br />
+
+<h2>Configuring the PC:</h2>
+
+<p align="center">
+Configure the IP address, subnet mask, and default gateway: <br/>
+<img src="PC IP.png" height="80%" width="80%" alt="Configure the IP"/>
+<br />
+<br />
+
+<h2>Testing network connection between PC and laptop:</h2>
+
+<p align="center">
+Test connection using ping from laptop to PC: <br/>
+<img src="Laptop to PC Ping.png" height="80%" width="80%" alt="Configure the IP"/>
+<br />
+<br />
+
+<p align="center">
+Test connection using ping from PC to laptop: <br/>
+<img src="PC to Laptop Ping.png" height="80%" width="80%" alt="Configure the IP"/>
+<br />
+<br />
+
 </p>
 
 <!--
